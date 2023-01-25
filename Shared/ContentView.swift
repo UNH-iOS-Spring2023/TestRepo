@@ -11,7 +11,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, class!")
             .padding() // Test text showing hello
     }
 }
