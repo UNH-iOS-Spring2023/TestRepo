@@ -5,13 +5,14 @@
 //  Created by forensics on 1/24/23.
 //
 
+
+// Sup class
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
-            .padding()
-
+            .padding() // Test text showing hello
     }
 }
 
